@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #app {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  #player {
+    margin-top: 50px;
+  }
+  
+  #track-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #track-list li {
+    margin-bottom: 10px;
+  }
+  
